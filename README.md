@@ -1,4 +1,5 @@
 # Projeto-controle-micros
+Este repositório tem como funcionalidade armazenar os arquivos do projeto das cadeiras de sistemas de controle e microprocessadores. Abaixo há uma descrição de cada arquivo.
 <table>
   <tr>
     <th>Nome do arquivo</th>
@@ -6,7 +7,7 @@
   </tr>
   <tr>
     <td>PRCSS_CSV.rar</td>
-    <td>$Programa em Processing para ler dados no padrão CSV via serial</td>
+    <td>Programa em Processing para ler dados no padrão CSV via serial</td>
   </tr>
   <tr>
     <td>Projeto controle - Eagle.rar</td>
