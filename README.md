@@ -22,6 +22,10 @@ Este repositório tem como funcionalidade armazenar os arquivos do projeto das c
     <td>Biblioteca do sensor ultrassônico HC-SR04 para arduino</td>
   </tr>
   <tr>
+    <td>motor_de_passo.rar</td>
+    <td>Programa para arduino que controla um motor de passo desde um â inicial até 90º, depois até 0º e fica repetindo 0º a 90º</td>
+  </tr>
+  <tr>
     <td>senoidePWM_e_sonda.ino</td>
     <td>Programa para arduino que gera uma senoide com PWM, lê o valor do sensor ultrassônico e envia o mesmo pelo serial</td>
   </tr>
