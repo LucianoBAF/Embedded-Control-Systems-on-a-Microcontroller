@@ -10,6 +10,10 @@ Este repositório tem como funcionalidade armazenar os arquivos do projeto das c
     <td>Programa em Processing para ler dados no padrão CSV via serial</td>
   </tr>
   <tr>
+    <td>Proj_eletromagnetismo.rar</td>
+    <td>Programa feito no Atmel Studio 7. É a forma exigida na cadeira de microprocessadores e como será a versão final </td>
+  </tr>
+  <tr>
     <td>Projeto controle - Eagle.rar</td>
     <td>Projeto do eagle com esquemático e pcb</td>
   </tr>
