@@ -37,8 +37,4 @@ Este repositório tem como funcionalidade armazenar os arquivos do projeto das c
     <td>projeto_eletromagnetismo_atmel.rar</td>
     <td>Projeto em Atmel Studio 7. Falta implementar contador para amostragens de controle iguais </td>
   </tr>
-  <tr>
-    <td>senoidePWM_e_sonda.ino</td>
-    <td>Programa para arduino que gera uma senoide com PWM, lê o valor do sensor ultrassônico e envia o mesmo pelo serial</td>
-  </tr>
 </table>
