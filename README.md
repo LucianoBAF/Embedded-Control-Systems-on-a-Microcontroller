@@ -6,20 +6,16 @@ Este repositório tem como funcionalidade armazenar os arquivos do projeto das c
     <th>Descrição</th>
   </tr>
   <tr>
+    <td>Bibliotecas Arduino.rar</td>
+    <td>Biblioteca para utilização do Timer1 e leitura do sensor ultrassônica HC-SR04</td>
+  </tr>
+  <tr>
     <td>PRCSS_CSV.rar</td>
     <td>Programa em Processing para ler dados no padrão CSV via serial</td>
   </tr>
   <tr>
     <td>Projeto controle - Eagle.rar</td>
     <td>Projeto do eagle com esquemático e pcb</td>
-  </tr>
-  <tr>
-    <td>TimerOne-r11.rar</td>
-    <td>Biblioteca do timer1 para arduino</td>
-  </tr>
-  <tr>
-    <td>Ultrasonic-master.rar	</td>
-    <td>Biblioteca do sensor ultrassônico HC-SR04 para arduino</td>
   </tr>
   <tr>
     <td>YOUTUBE-Arduino - controlador geral.rar</td>
