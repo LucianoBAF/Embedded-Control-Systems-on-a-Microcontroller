@@ -22,6 +22,14 @@ Este repositório tem como funcionalidade armazenar os arquivos do projeto das c
     <td>Biblioteca do sensor ultrassônico HC-SR04 para arduino</td>
   </tr>
   <tr>
+    <td>YOUTUBE-Arduino - controlador geral.rar</td>
+    <td>Todo material necessário para se controlar o projeto pelo Arduino</td>
+  </tr>
+  <tr>
+    <td>YOUTUBE-Matlab e Arduino - Teste senoides.rar</td>
+    <td>Todo material necessário para se obter a função de transferência do sistema através do teste das senoides</td>
+  </tr>
+  <tr>
     <td>motor_de_passo.rar</td>
     <td>Programa para arduino que controla um motor de passo desde um â inicial até 90º, depois até 0º e fica repetindo 0º a 90º</td>
   </tr>
