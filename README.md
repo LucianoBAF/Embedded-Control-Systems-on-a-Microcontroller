@@ -1,5 +1,5 @@
-# Projeto-controle-micros
-Este repositório tem como funcionalidade armazenar os arquivos do projeto das cadeiras de sistemas de controle e microprocessadores. Abaixo há uma descrição de cada arquivo.
+# Electromagnetic control system on a microcontroller
+Este repositório tem como funcionalidade armazenar os arquivos do projeto de controle de momvimento linear de uma bobina ao longo de um cilindro ferromagnético, operando em loop fechado. Abaixo há uma descrição de cada arquivo.
 <table>
   <tr>
     <th>Nome do arquivo</th>
